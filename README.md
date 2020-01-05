@@ -31,8 +31,10 @@
 - task1.html 主要是将数据以柱状图的形式呈现出来、使得数据更加显而易见容易抓取
 
 #### PYTHON文档描述
-- 一共一个puyhon文档
+- 一共一个python文档
 - project2_3.py 主要负责页面的跳转和交互数据的可视化。
 
 #### webapp的动作描述
 - 在界面的左上角设置了下拉框以及Do it的按钮.可通过该下拉框选取不同的信息
+
+![pythonanywhere](http://jx871614147.pythonanywhere.com/)
